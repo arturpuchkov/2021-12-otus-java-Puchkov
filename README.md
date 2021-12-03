@@ -1,2 +1,2 @@
-# 2021-12-otus-java-Puchkov
-Otus Java Course
+Пучков Артур Артурович
+Java для Почты России
